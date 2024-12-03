@@ -10,7 +10,7 @@ namespace Day3
     {
         static void Main(string[] args)
         {
-            Solution1 solution1 = new Solution1();
+            Solution2 solution1 = new Solution2();
         }
     }
 }
