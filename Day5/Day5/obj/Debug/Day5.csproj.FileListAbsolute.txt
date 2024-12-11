@@ -1,0 +1,7 @@
+C:\Repo\Advent\Day5\Day5\bin\Debug\Day5.exe.config
+C:\Repo\Advent\Day5\Day5\bin\Debug\Day5.exe
+C:\Repo\Advent\Day5\Day5\bin\Debug\Day5.pdb
+C:\Repo\Advent\Day5\Day5\obj\Debug\Day5.csproj.AssemblyReference.cache
+C:\Repo\Advent\Day5\Day5\obj\Debug\Day5.csproj.CoreCompileInputs.cache
+C:\Repo\Advent\Day5\Day5\obj\Debug\Day5.exe
+C:\Repo\Advent\Day5\Day5\obj\Debug\Day5.pdb
